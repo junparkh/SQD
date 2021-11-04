@@ -23,4 +23,7 @@ Squid coin offers IDO, IDOs offer businesses a tool for engaging theircommunitie
 
 
 We provide gaming services without the use of a human or businessintermediary. The system is safe, and the software and transactionshave been proven to be trustworthy and fair. When you consider howsimple it is to earn money by playing the Squid Coin game, it's clear tosee why Squid Coin Gaming is the gaming token of the future.
-01. INTRODUCTION
+
+
+
+
