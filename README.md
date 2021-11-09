@@ -16,7 +16,7 @@ Contract:
 ## Intros
 
 
-Squid Coin is a community token based on games that were createdprimarily to provide a haven for game enthusiasts. Our major purposeis to provide users with a safe and secure environment where theymay use their crypto for rewards, storage, and the purchase or sale ofNFT. We focus on the demands of our gamer community members asa gaming community-generated token.
+Squid Coin is a community token based on games that were createdprimarily to provide a haven for game enthusiasts. Our major purposeis to provide users with a safe and secure environment where theymay use their crypto for rewards, storage, and the purchase or sale of NFT. We focus on the demands of our gamer community members asa gaming community-generated token.
 
     
     
