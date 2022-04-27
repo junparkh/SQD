@@ -41,6 +41,7 @@ You can find our details, on [HERE](https://0aea552f-60dc-4ad8-ae1e-4695cb0daf3d
 ## Website & Related
 
 Official Website [Squidcoin.io](https://www.squidcoin.io/) 
+
 Global Community Forum Website [Among.Live](https://www.among.live/) 
 
 # Contact 
